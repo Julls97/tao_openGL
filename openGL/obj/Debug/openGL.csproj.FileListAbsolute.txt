@@ -1,0 +1,16 @@
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\openGL.exe
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\openGL.pdb
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.FreeGlut.dll
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.OpenGl.dll
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.FreeGlut.xml
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.OpenGl.xml
+C:\Users\jull\source\repos\openGL\openGL\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.Form1.resources
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.Properties.Resources.resources
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.csproj.GenerateResource.cache
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.csproj.CoreCompileInputs.cache
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.csproj.CopyComplete
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.exe
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.pdb
+C:\Users\jull\source\repos\openGL\openGL\obj\Debug\openGL.csprojAssemblyReference.cache
