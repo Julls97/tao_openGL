@@ -84,15 +84,15 @@ namespace openGL {
 				this.Close();
 			}
 
-			// Нажата клавиша right квадрат вращается; 
-			if (e.KeyCode == Keys.Right) {
-				timer1.Start();
-			}
+			//// Нажата клавиша right квадрат вращается; 
+			//if (e.KeyCode == Keys.Right) {
+			//	timer1.Start();
+			//}
 
-			// Нажата клавиша left вращение прекращается;
-			if (e.KeyCode == Keys.Left) {
-				timer1.Stop();
-			}
+			//// Нажата клавиша left вращение прекращается;
+			//if (e.KeyCode == Keys.Left) {
+			//	timer1.Stop();
+			//}
 		}
 
 		private void timer1_Tick(object sender, EventArgs e) {
@@ -117,6 +117,20 @@ namespace openGL {
 				Y += 0.1f;
 			}
 
+			DrawGLScene();
+		}
+
+		private void anT_MouseUp(object sender, MouseEventArgs e) {
+			// Нажата клавиша right квадрат вращается; 
+			if (e.Button == MouseButtons.Right) {
+				timer1.Start();
+			}
+
+			// Нажата клавиша left вращение прекращается;
+			if (e.Button == MouseButtons.Left) {
+				timer1.Stop();
+			}
+			
 			DrawGLScene();
 		}
 	}

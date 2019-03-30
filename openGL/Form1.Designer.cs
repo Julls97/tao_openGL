@@ -51,6 +51,7 @@
 			this.anT.TabIndex = 0;
 			this.anT.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.anT_KeyPress);
 			this.anT.KeyUp += new System.Windows.Forms.KeyEventHandler(this.anT_KeyUp);
+			this.anT.MouseUp += new System.Windows.Forms.MouseEventHandler(this.anT_MouseUp);
 			// 
 			// timer1
 			// 
